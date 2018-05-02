@@ -22,7 +22,7 @@
     <div class="navbar navbar-brand-themes navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
-          <a href="/home/" class="navbar-brand" title="Главная страница UZHOST.NET"><img src="https://uzhost.net/css/logo.png" alt="TLD24.RU"></a>
+          <a href="/home/" class="navbar-brand" title="Главная страница UZHOST.NET"><img src="https://uzhost.net/css/logo.png" alt="UZHOST.NET"></a>
           <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -485,8 +485,8 @@
 					<p class="centered" style="font-size: 38px;">400+</p>
 				</div>
 				<div class="col-lg-4">
-					<h4 class="centered"><i class="fa fa-check" aria-hidden="true"></i> Опыт работы</h4>
-					<p class="centered" style="font-size: 38px;">5+ года</p>
+					<h4 class="centered"><i class="fa fa-certificate" aria-hidden="true"></i> Опыт работы</h4>
+					<p class="centered" style="font-size: 38px;">6+ года</p>
 				</div>
 			</div>
 		</div>
